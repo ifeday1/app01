@@ -1,0 +1,13 @@
+.frame {
+    position: relative;
+width: 237px;
+height: 468px;
+margin-top: 0;
+background: #FAF6F6;
+border-radius: 53px;
+display: flex;
+flex-direction: column;
+padding:  20px;
+margin: 20px;
+margin-left: 300px;
+}
