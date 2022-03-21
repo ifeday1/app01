@@ -122,3 +122,231 @@ line-height: 15px;
 
 color: #C273F2;
 }
+.box2{
+    position: absolute;
+width: 356px;
+height: 129px;
+left: 31px;
+top: 400px;
+
+background: linear-gradient(90deg, rgba(21, 170, 217, 0.9) 22.8%, rgba(123, 232, 219, 0.694737) 63.6%, rgba(23, 244, 209, 0.339167) 85.39%, rgba(27, 245, 210, 0.307943) 106.17%, rgba(63, 251, 217, 0) 106.18%, rgba(63, 251, 217, 0) 106.18%);
+/* 2dp | Button */
+
+filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.16)) drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.12)) drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+}
+.main-wallet{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 51px;
+top: 421px;
+color: #FFFFFF;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+
+}
+.num1{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 51px;
+top: 443px;
+color: #FFFFFF;
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+}
+.prog{
+    position: absolute;
+width: 311px;
+height: 3px;
+left: 56px;
+top: 490px;
+background: #FFFFFF;
+border-radius: 20px;
+}
+.per{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 317px;
+top: 442px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+
+color: #0B6238;
+}
+.prog1{
+    position: absolute;
+width: 191px;
+height: 3px;
+left: 56px;
+top: 490px;
+
+background: #EDA44E;
+border-radius: 20px;
+}
+.box3{
+    position: absolute;
+    width: 356px;
+    height: 129px;
+    left: 31px;
+    top: 560px;
+    
+    background: linear-gradient(90.71deg, rgba(153, 127, 161, 0) -16.25%, #982ABE -16.24%, rgba(78, 6, 103, 0.59438) 87.35%);
+    /* 2dp | Button */
+    
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.16)) drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.12)) drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+    
+}
+.saving-wallet{
+    position: absolute;
+    width: 91px;
+    height: 42px;
+    left: 51px;
+    top: 580px;
+    
+    font-family: 'Futura';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.num2{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 51px;
+top: 602px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.per1{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 317px;
+top: 601px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+
+color: #E11D11;
+}
+.line3{
+    position: absolute;
+width: 311px;
+height: 3px;
+left: 56px;
+top: 649px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+.line4{
+
+position: absolute;
+width: 94px;
+height: 3px;
+left: 56px;
+top: 649px;
+
+background: #E11D11;
+border-radius: 20px;
+}
+.box4{
+    position: absolute;
+width: 356px;
+height: 129px;
+left: 36px;
+top: 720px;
+
+background: linear-gradient(90deg, #ED850B 53.09%, rgba(234, 185, 12, 0.76) 99.99%, rgba(242, 180, 18, 0) 100%, rgba(255, 153, 17, 0.369792) 100%);
+/* 2dp | Button */
+
+filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.16)) drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.12)) drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+}
+.summer-wallet{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 56px;
+top: 749px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+color: #FFFFFF;
+}
+.per3{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 56px;
+top: 771px;
+color: #FFFFFF;
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+}
+.per2{
+    position: absolute;
+width: 91px;
+height: 42px;
+left: 322px;
+top: 770px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+
+color: #1434A8;
+}
+.line5{
+    position: absolute;
+width: 311px;
+height: 3px;
+left: 61px;
+top: 818px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+.line6{
+    position: absolute;
+width: 166px;
+height: 3px;
+left: 61px;
+top: 818px;
+
+background: #1434A8;
+border-radius: 20px;
+}
