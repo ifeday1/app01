@@ -1,10 +1,9 @@
 body{
-    position: absolute;
-width: 1366px;
-height: 580px;
-background: rgba(72, 15, 117, 0.78);
-border: 1px solid #000000;
-box-sizing: border-box;
+  position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #480F75;
 }
 
 .app {
