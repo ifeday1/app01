@@ -1,0 +1,10 @@
+.frame1{
+    position: relative;
+    width: 428px;
+    height: 926px;
+    margin-left: 40%;
+    margin-bottom:  100%;
+    
+    background: #FAF6F6;
+    border-radius: 50px;
+}
